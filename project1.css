@@ -178,14 +178,3 @@ header img{
     height: 50px;
 }
 
-/* Media Queries */
-
-@media (max-width:480px){
-    .header > img {
-        width: 160px;
-    }
-    .navbar{
-        display: flex;
-        flex-direction: column;
-    }
-}
